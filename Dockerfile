@@ -1,2 +1,2 @@
 FROM cohm/pyroot-notebook
-RUN git clone https://github.com/cohm/OpenDataZmassLab.git
+RUN git clone --single-branch --branch SH1015 https://github.com/cohm/OpenDataZmassLab.git
