@@ -1,2 +1,2 @@
 FROM cohm/pyroot-notebook
-RUN git clone https://github.com/strandbe/SubatomicPhysicsLab.git
+RUN git clone https://github.com/cohm/OpenAtlasDataLab.git
